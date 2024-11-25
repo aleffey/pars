@@ -10,3 +10,6 @@ temp = bs.find("span", "temp__value temp__value_with-unit")
 print("XXXXXXXXXXXXXXXXXXXXX")
 print(temp)
 print("status")
+
+print("status")
+print("status")
